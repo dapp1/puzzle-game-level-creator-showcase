@@ -1,4 +1,4 @@
-# puzzle-game-level-creator-showcase
+# Puzzle Game Level Creator Showcase
 ## About project
  To create levels for the puzzle game, a user-friendly editor was needed.
  This editor specifies the active area for level construction, ensuring that the game's boundaries are not exceeded.
